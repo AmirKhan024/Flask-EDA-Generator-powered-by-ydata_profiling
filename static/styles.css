@@ -38,7 +38,6 @@ form {
     background-color: #ffffff;
     padding: 40px;
     border-radius: 12px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
 .form-container {
@@ -54,15 +53,12 @@ input[type="file"] {
     width: 100%;
     padding: 10px;
     border: 2px dashed #3498db;
-    border-radius: 6px;
-    font-size: 16px;
     color: #555;
 }
 input[type="submit"] {
     background-color: #3498db;
     color: #fff;
     padding: 12px 24px;
-    border: none;
     width: 100%;
 }
 
